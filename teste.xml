@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><uf>PE</uf><cidade>ABREU E LIMA</cidade><cep_inicial>53500001</cep_inicial><cep_final>53599999</cep_final></item>
+<item><uf>PE</uf><cidade>AFOGADOS DA INGAZEIRA</cidade><cep_inicial>56800000</cep_inicial><cep_final>56819999</cep_final></item>
+<item><uf>PE</uf><cidade>AFRANIO</cidade><cep_inicial>56360000</cep_inicial><cep_final>56379999</cep_final></item>
+<item><uf>PE</uf><cidade>AGRESTINA</cidade><cep_inicial>55495000</cep_inicial><cep_final>55499999</cep_final></item>
+<item><uf>PE</uf><cidade>AGUA PRETA</cidade><cep_inicial>55550000</cep_inicial><cep_final>55554999</cep_final></item>
+<item><uf>PE</uf><cidade>AGUAS BELAS</cidade><cep_inicial>55340000</cep_inicial><cep_final>55344999</cep_final></item>
+<item><uf>PE</uf><cidade>ALAGOINHA</cidade><cep_inicial>55260000</cep_inicial><cep_final>55269999</cep_final></item>
+<item><uf>PE</uf><cidade>ALIANCA</cidade><cep_inicial>55890000</cep_inicial><cep_final>55899999</cep_final></item>
+<item><uf>PE</uf><cidade>ALTINHO</cidade><cep_inicial>55490000</cep_inicial><cep_final>55494999</cep_final></item>
+<item><uf>PE</uf><cidade>AMARAJI</cidade><cep_inicial>55515000</cep_inicial><cep_final>55519999</cep_final></item>
+<item><uf>PE</uf><cidade>ANGELIM</cidade><cep_inicial>55430000</cep_inicial><cep_final>55434999</cep_final></item>
+<item><uf>PE</uf><cidade>ARACOIABA</cidade><cep_inicial>53690000</cep_inicial><cep_final>53699999</cep_final></item>
+<item><uf>PE</uf><cidade>ARARIPINA</cidade><cep_inicial>56280000</cep_inicial><cep_final>56299999</cep_final></item>
+<item><uf>PE</uf><cidade>ARCOVERDE</cidade><cep_inicial>56500001</cep_inicial><cep_final>56519999</cep_final></item>
+<item><uf>PE</uf><cidade>BARRA DE GUABIRABA</cidade><cep_inicial>55690000</cep_inicial><cep_final>55694999</cep_final></item>
+<item><uf>PE</uf><cidade>BARREIROS</cidade><cep_inicial>55560000</cep_inicial><cep_final>55564999</cep_final></item>
+<item><uf>PE</uf><cidade>BELEM DE MARIA</cidade><cep_inicial>55440000</cep_inicial><cep_final>55449999</cep_final></item>
+<item><uf>PE</uf><cidade>BELEM DO SAO FRANCISCO</cidade><cep_inicial>56440000</cep_inicial><cep_final>56459999</cep_final></item>
+<item><uf>PE</uf><cidade>BELO JARDIM</cidade><cep_inicial>55150001</cep_inicial><cep_final>55169999</cep_final></item>
+<item><uf>PE</uf><cidade>BETANIA</cidade><cep_inicial>56670000</cep_inicial><cep_final>56699999</cep_final></item>
+<item><uf>PE</uf><cidade>BEZERROS</cidade><cep_inicial>55660000</cep_inicial><cep_final>55664999</cep_final></item>
+<item><uf>PE</uf><cidade>BODOCO</cidade><cep_inicial>56220000</cep_inicial><cep_final>56229999</cep_final></item>
+<item><uf>PE</uf><cidade>BOM CONSELHO</cidade><cep_inicial>55330000</cep_inicial><cep_final>55339999</cep_final></item>
+<item><uf>PE</uf><cidade>BOM JARDIM</cidade><cep_inicial>55730000</cep_inicial><cep_final>55739999</cep_final></item>
+<item><uf>PE</uf><cidade>BONITO</cidade><cep_inicial>55680000</cep_inicial><cep_final>55689999</cep_final></item>
+<item><uf>PE</uf><cidade>BREJAO</cidade><cep_inicial>55325000</cep_inicial><cep_final>55329999</cep_final></item>
+<item><uf>PE</uf><cidade>BREJINHO</cidade><cep_inicial>56740000</cep_inicial><cep_final>56749999</cep_final></item>
+<item><uf>PE</uf><cidade>BREJO DA MADRE DE DEUS</cidade><cep_inicial>55170000</cep_inicial><cep_final>55179999</cep_final></item>
+<item><uf>PE</uf><cidade>BUENOS AIRES</cidade><cep_inicial>55845000</cep_inicial><cep_final>55849999</cep_final></item>
+<item><uf>PE</uf><cidade>BUIQUE</cidade><cep_inicial>56520000</cep_inicial><cep_final>56539999</cep_final></item>
+<item><uf>PE</uf><cidade>CABO DE SANTO AGOSTINHO</cidade><cep_inicial>54500001</cep_inicial><cep_final>54599999</cep_final></item>
+<item><uf>PE</uf><cidade>CABROBO</cidade><cep_inicial>56180000</cep_inicial><cep_final>56189999</cep_final></item>
+<item><uf>PE</uf><cidade>CACHOEIRINHA</cidade><cep_inicial>55380000</cep_inicial><cep_final>55384999</cep_final></item>
+<item><uf>PE</uf><cidade>CAETES</cidade><cep_inicial>55360000</cep_inicial><cep_final>55364999</cep_final></item>
+<item><uf>PE</uf><cidade>CALCADO</cidade><cep_inicial>55375000</cep_inicial><cep_final>55379999</cep_final></item>
+<item><uf>PE</uf><cidade>CALUMBI</cidade><cep_inicial>56930000</cep_inicial><cep_final>56949999</cep_final></item>
+<item><uf>PE</uf><cidade>CAMARAGIBE</cidade><cep_inicial>54750001</cep_inicial><cep_final>54799999</cep_final></item>
+<item><uf>PE</uf><cidade>CAMOCIM DE SAO FELIX</cidade><cep_inicial>55665000</cep_inicial><cep_final>55669999</cep_final></item>
+<item><uf>PE</uf><cidade>CAMUTANGA</cidade><cep_inicial>55930000</cep_inicial><cep_final>55939999</cep_final></item>
+<item><uf>PE</uf><cidade>CANHOTINHO</cidade><cep_inicial>55420000</cep_inicial><cep_final>55429999</cep_final></item>
+<item><uf>PE</uf><cidade>CAPOEIRAS</cidade><cep_inicial>55365000</cep_inicial><cep_final>55369999</cep_final></item>
+<item><uf>PE</uf><cidade>CARNAIBA</cidade><cep_inicial>56820000</cep_inicial><cep_final>56827999</cep_final></item>
+<item><uf>PE</uf><cidade>CARNAUBEIRA DA PENHA</cidade><cep_inicial>56420000</cep_inicial><cep_final>56429999</cep_final></item>
+<item><uf>PE</uf><cidade>CARPINA</cidade><cep_inicial>55810001</cep_inicial><cep_final>55819999</cep_final></item>
+<item><uf>PE</uf><cidade>CARUARU</cidade><cep_inicial>55000001</cep_inicial><cep_final>55119999</cep_final></item>
+<item><uf>PE</uf><cidade>CASINHAS</cidade><cep_inicial>55755000</cep_inicial><cep_final>55759999</cep_final></item>
+<item><uf>PE</uf><cidade>CATENDE</cidade><cep_inicial>55400000</cep_inicial><cep_final>55404999</cep_final></item>
+<item><uf>PE</uf><cidade>CEDRO</cidade><cep_inicial>56130000</cep_inicial><cep_final>56139999</cep_final></item>
+<item><uf>PE</uf><cidade>CHA DE ALEGRIA</cidade><cep_inicial>55835000</cep_inicial><cep_final>55839999</cep_final></item>
+<item><uf>PE</uf><cidade>CHA GRANDE</cidade><cep_inicial>55636000</cep_inicial><cep_final>55639999</cep_final></item>
+<item><uf>PE</uf><cidade>CONDADO</cidade><cep_inicial>55940000</cep_inicial><cep_final>55949999</cep_final></item>
+<item><uf>PE</uf><cidade>CORRENTES</cidade><cep_inicial>55315000</cep_inicial><cep_final>55319999</cep_final></item>
+<item><uf>PE</uf><cidade>CORTES</cidade><cep_inicial>55525000</cep_inicial><cep_final>55529999</cep_final></item>
+<item><uf>PE</uf><cidade>CUMARU</cidade><cep_inicial>55655000</cep_inicial><cep_final>55659999</cep_final></item>
+<item><uf>PE</uf><cidade>CUPIRA</cidade><cep_inicial>55460000</cep_inicial><cep_final>55469999</cep_final></item>
+<item><uf>PE</uf><cidade>CUSTODIA</cidade><cep_inicial>56640000</cep_inicial><cep_final>56669999</cep_final></item>
+<item><uf>PE</uf><cidade>DORMENTES</cidade><cep_inicial>56355000</cep_inicial><cep_final>56359999</cep_final></item>
+<item><uf>PE</uf><cidade>ESCADA</cidade><cep_inicial>55500000</cep_inicial><cep_final>55509999</cep_final></item>
+<item><uf>PE</uf><cidade>EXU</cidade><cep_inicial>56230000</cep_inicial><cep_final>56249999</cep_final></item>
+<item><uf>PE</uf><cidade>FEIRA NOVA</cidade><cep_inicial>55715000</cep_inicial><cep_final>55719999</cep_final></item>
+<item><uf>PE</uf><cidade>FERNANDO DE NORONHA</cidade><cep_inicial>53990000</cep_inicial><cep_final>53999999</cep_final></item>
+<item><uf>PE</uf><cidade>FERREIROS</cidade><cep_inicial>55880000</cep_inicial><cep_final>55889999</cep_final></item>
+<item><uf>PE</uf><cidade>FLORES</cidade><cep_inicial>56850000</cep_inicial><cep_final>56869999</cep_final></item>
+<item><uf>PE</uf><cidade>FLORESTA</cidade><cep_inicial>56400000</cep_inicial><cep_final>56419999</cep_final></item>
+<item><uf>PE</uf><cidade>FREI MIGUELINHO</cidade><cep_inicial>55780000</cep_inicial><cep_final>55789999</cep_final></item>
+<item><uf>PE</uf><cidade>GAMELEIRA</cidade><cep_inicial>55530000</cep_inicial><cep_final>55534999</cep_final></item>
+<item><uf>PE</uf><cidade>GARANHUNS</cidade><cep_inicial>55290001</cep_inicial><cep_final>55304999</cep_final></item>
+<item><uf>PE</uf><cidade>GLORIA DO GOITA</cidade><cep_inicial>55620000</cep_inicial><cep_final>55629999</cep_final></item>
+<item><uf>PE</uf><cidade>GOIANA</cidade><cep_inicial>55900000</cep_inicial><cep_final>55919999</cep_final></item>
+<item><uf>PE</uf><cidade>GRANITO</cidade><cep_inicial>56160000</cep_inicial><cep_final>56162999</cep_final></item>
+<item><uf>PE</uf><cidade>GRAVATA</cidade><cep_inicial>55640001</cep_inicial><cep_final>55649999</cep_final></item>
+<item><uf>PE</uf><cidade>IATI</cidade><cep_inicial>55345000</cep_inicial><cep_final>55349999</cep_final></item>
+<item><uf>PE</uf><cidade>IBIMIRIM</cidade><cep_inicial>56580000</cep_inicial><cep_final>56599999</cep_final></item>
+<item><uf>PE</uf><cidade>IBIRAJUBA</cidade><cep_inicial>55390000</cep_inicial><cep_final>55394999</cep_final></item>
+<item><uf>PE</uf><cidade>IGARASSU</cidade><cep_inicial>53600001</cep_inicial><cep_final>53689999</cep_final></item>
+<item><uf>PE</uf><cidade>IGUARACI</cidade><cep_inicial>56840000</cep_inicial><cep_final>56849999</cep_final></item>
+<item><uf>PE</uf><cidade>ILHA DE ITAMARACA</cidade><cep_inicial>53900000</cep_inicial><cep_final>53989999</cep_final></item>
+<item><uf>PE</uf><cidade>INAJA</cidade><cep_inicial>56560000</cep_inicial><cep_final>56564999</cep_final></item>
+<item><uf>PE</uf><cidade>INGAZEIRA</cidade><cep_inicial>56830000</cep_inicial><cep_final>56839999</cep_final></item>
+<item><uf>PE</uf><cidade>IPOJUCA</cidade><cep_inicial>55590000</cep_inicial><cep_final>55599999</cep_final></item>
+<item><uf>PE</uf><cidade>IPUBI</cidade><cep_inicial>56260000</cep_inicial><cep_final>56279999</cep_final></item>
+<item><uf>PE</uf><cidade>ITACURUBA</cidade><cep_inicial>56430000</cep_inicial><cep_final>56439999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAIBA</cidade><cep_inicial>56550000</cep_inicial><cep_final>56559999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAMBE</cidade><cep_inicial>55920000</cep_inicial><cep_final>55929999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAPETIM</cidade><cep_inicial>56720000</cep_inicial><cep_final>56739999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAPISSUMA</cidade><cep_inicial>53700000</cep_inicial><cep_final>53899999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAQUITINGA</cidade><cep_inicial>55950000</cep_inicial><cep_final>55999999</cep_final></item>
+<item><uf>PE</uf><cidade>JABOATAO DOS GUARARAPES</cidade><cep_inicial>54000001</cep_inicial><cep_final>54499999</cep_final></item>
+<item><uf>PE</uf><cidade>JAQUEIRA</cidade><cep_inicial>55409000</cep_inicial><cep_final>55409999</cep_final></item>
+<item><uf>PE</uf><cidade>JATAUBA</cidade><cep_inicial>55180000</cep_inicial><cep_final>55189999</cep_final></item>
+<item><uf>PE</uf><cidade>JATOBA</cidade><cep_inicial>56470000</cep_inicial><cep_final>56479999</cep_final></item>
+<item><uf>PE</uf><cidade>JOAO ALFREDO</cidade><cep_inicial>55720000</cep_inicial><cep_final>55729999</cep_final></item>
+<item><uf>PE</uf><cidade>JOAQUIM NABUCO</cidade><cep_inicial>55535000</cep_inicial><cep_final>55539999</cep_final></item>
+<item><uf>PE</uf><cidade>JUCATI</cidade><cep_inicial>55398000</cep_inicial><cep_final>55399999</cep_final></item>
+<item><uf>PE</uf><cidade>JUPI</cidade><cep_inicial>55395000</cep_inicial><cep_final>55397999</cep_final></item>
+<item><uf>PE</uf><cidade>JUREMA</cidade><cep_inicial>55480000</cep_inicial><cep_final>55489999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DO CARRO</cidade><cep_inicial>55820000</cep_inicial><cep_final>55824999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DO ITAENGA</cidade><cep_inicial>55840000</cep_inicial><cep_final>55844999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DO OURO</cidade><cep_inicial>55320000</cep_inicial><cep_final>55324999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DOS GATOS</cidade><cep_inicial>55450000</cep_inicial><cep_final>55459999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA GRANDE</cidade><cep_inicial>56395000</cep_inicial><cep_final>56399999</cep_final></item>
+<item><uf>PE</uf><cidade>LAJEDO</cidade><cep_inicial>55385000</cep_inicial><cep_final>55389999</cep_final></item>
+<item><uf>PE</uf><cidade>LIMOEIRO</cidade><cep_inicial>55700000</cep_inicial><cep_final>55714999</cep_final></item>
+<item><uf>PE</uf><cidade>MACAPARANA</cidade><cep_inicial>55865000</cep_inicial><cep_final>55869999</cep_final></item>
+<item><uf>PE</uf><cidade>MACHADOS</cidade><cep_inicial>55740000</cep_inicial><cep_final>55744999</cep_final></item>
+<item><uf>PE</uf><cidade>MANARI</cidade><cep_inicial>56565000</cep_inicial><cep_final>56579999</cep_final></item>
+<item><uf>PE</uf><cidade>MARAIAL</cidade><cep_inicial>55405000</cep_inicial><cep_final>55408999</cep_final></item>
+<item><uf>PE</uf><cidade>MIRANDIBA</cidade><cep_inicial>56980000</cep_inicial><cep_final>56999999</cep_final></item>
+<item><uf>PE</uf><cidade>MOREILANDIA</cidade><cep_inicial>56150000</cep_inicial><cep_final>56159999</cep_final></item>
+<item><uf>PE</uf><cidade>MORENO</cidade><cep_inicial>54800000</cep_inicial><cep_final>54999999</cep_final></item>
+<item><uf>PE</uf><cidade>NAZARE DA MATA</cidade><cep_inicial>55800000</cep_inicial><cep_final>55804999</cep_final></item>
+<item><uf>PE</uf><cidade>OLINDA</cidade><cep_inicial>53000001</cep_inicial><cep_final>53399999</cep_final></item>
+<item><uf>PE</uf><cidade>OROBO</cidade><cep_inicial>55745000</cep_inicial><cep_final>55749999</cep_final></item>
+<item><uf>PE</uf><cidade>OROCO</cidade><cep_inicial>56170000</cep_inicial><cep_final>56179999</cep_final></item>
+<item><uf>PE</uf><cidade>OURICURI</cidade><cep_inicial>56200000</cep_inicial><cep_final>56209999</cep_final></item>
+<item><uf>PE</uf><cidade>PALMARES</cidade><cep_inicial>55540000</cep_inicial><cep_final>55549999</cep_final></item>
+<item><uf>PE</uf><cidade>PALMEIRINA</cidade><cep_inicial>55310000</cep_inicial><cep_final>55314999</cep_final></item>
+<item><uf>PE</uf><cidade>PANELAS</cidade><cep_inicial>55470000</cep_inicial><cep_final>55479999</cep_final></item>
+<item><uf>PE</uf><cidade>PARANATAMA</cidade><cep_inicial>55355000</cep_inicial><cep_final>55359999</cep_final></item>
+<item><uf>PE</uf><cidade>PARNAMIRIM</cidade><cep_inicial>56163000</cep_inicial><cep_final>56169999</cep_final></item>
+<item><uf>PE</uf><cidade>PASSIRA</cidade><cep_inicial>55650000</cep_inicial><cep_final>55654999</cep_final></item>
+<item><uf>PE</uf><cidade>PAUDALHO</cidade><cep_inicial>55825000</cep_inicial><cep_final>55834999</cep_final></item>
+<item><uf>PE</uf><cidade>PAULISTA</cidade><cep_inicial>53400001</cep_inicial><cep_final>53499999</cep_final></item>
+<item><uf>PE</uf><cidade>PEDRA</cidade><cep_inicial>55280000</cep_inicial><cep_final>55289999</cep_final></item>
+<item><uf>PE</uf><cidade>PESQUEIRA</cidade><cep_inicial>55200000</cep_inicial><cep_final>55239999</cep_final></item>
+<item><uf>PE</uf><cidade>PETROLANDIA</cidade><cep_inicial>56460000</cep_inicial><cep_final>56469999</cep_final></item>
+<item><uf>PE</uf><cidade>PETROLINA</cidade><cep_inicial>56300001</cep_inicial><cep_final>56354999</cep_final></item>
+<item><uf>PE</uf><cidade>POCAO</cidade><cep_inicial>55240000</cep_inicial><cep_final>55249999</cep_final></item>
+<item><uf>PE</uf><cidade>POMBOS</cidade><cep_inicial>55630000</cep_inicial><cep_final>55635999</cep_final></item>
+<item><uf>PE</uf><cidade>PRIMAVERA</cidade><cep_inicial>55510000</cep_inicial><cep_final>55514999</cep_final></item>
+<item><uf>PE</uf><cidade>QUIPAPA</cidade><cep_inicial>55415000</cep_inicial><cep_final>55419999</cep_final></item>
+<item><uf>PE</uf><cidade>QUIXABA</cidade><cep_inicial>56828000</cep_inicial><cep_final>56829999</cep_final></item>
+<item><uf>PE</uf><cidade>RECIFE</cidade><cep_inicial>50000001</cep_inicial><cep_final>52999999</cep_final></item>
+<item><uf>PE</uf><cidade>RIACHO DAS ALMAS</cidade><cep_inicial>55120000</cep_inicial><cep_final>55124999</cep_final></item>
+<item><uf>PE</uf><cidade>RIBEIRAO</cidade><cep_inicial>55520000</cep_inicial><cep_final>55524999</cep_final></item>
+<item><uf>PE</uf><cidade>RIO FORMOSO</cidade><cep_inicial>55570000</cep_inicial><cep_final>55577999</cep_final></item>
+<item><uf>PE</uf><cidade>SAIRE</cidade><cep_inicial>55695000</cep_inicial><cep_final>55699999</cep_final></item>
+<item><uf>PE</uf><cidade>SALGADINHO</cidade><cep_inicial>55675000</cep_inicial><cep_final>55679999</cep_final></item>
+<item><uf>PE</uf><cidade>SALGUEIRO</cidade><cep_inicial>56000000</cep_inicial><cep_final>56119999</cep_final></item>
+<item><uf>PE</uf><cidade>SALOA</cidade><cep_inicial>55350000</cep_inicial><cep_final>55354999</cep_final></item>
+<item><uf>PE</uf><cidade>SANHARO</cidade><cep_inicial>55250000</cep_inicial><cep_final>55259999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA CRUZ</cidade><cep_inicial>56215000</cep_inicial><cep_final>56219999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA CRUZ DA BAIXA VERDE</cidade><cep_inicial>56895000</cep_inicial><cep_final>56899999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA CRUZ DO CAPIBARIBE</cidade><cep_inicial>55190001</cep_inicial><cep_final>55199999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA FILOMENA</cidade><cep_inicial>56210000</cep_inicial><cep_final>56214999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA MARIA DA BOA VISTA</cidade><cep_inicial>56380000</cep_inicial><cep_final>56394999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA MARIA DO CAMBUCA</cidade><cep_inicial>55765000</cep_inicial><cep_final>55769999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA TEREZINHA</cidade><cep_inicial>56750000</cep_inicial><cep_final>56759999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO BENEDITO DO SUL</cidade><cep_inicial>55410000</cep_inicial><cep_final>55414999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO BENTO DO UNA</cidade><cep_inicial>55370000</cep_inicial><cep_final>55374999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO CAITANO</cidade><cep_inicial>55130000</cep_inicial><cep_final>55139999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOAO</cidade><cep_inicial>55435000</cep_inicial><cep_final>55439999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOAQUIM DO MONTE</cidade><cep_inicial>55670000</cep_inicial><cep_final>55674999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOSE DA COROA GRANDE</cidade><cep_inicial>55565000</cep_inicial><cep_final>55569999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOSE DO BELMONTE</cidade><cep_inicial>56950000</cep_inicial><cep_final>56979999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOSE DO EGITO</cidade><cep_inicial>56700000</cep_inicial><cep_final>56719999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO LOURENCO DA MATA</cidade><cep_inicial>54700001</cep_inicial><cep_final>54749999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO VICENTE FERRER</cidade><cep_inicial>55860000</cep_inicial><cep_final>55864999</cep_final></item>
+<item><uf>PE</uf><cidade>SERRA TALHADA</cidade><cep_inicial>56900001</cep_inicial><cep_final>56929999</cep_final></item>
+<item><uf>PE</uf><cidade>SERRITA</cidade><cep_inicial>56140000</cep_inicial><cep_final>56149999</cep_final></item>
+<item><uf>PE</uf><cidade>SERTANIA</cidade><cep_inicial>56600000</cep_inicial><cep_final>56639999</cep_final></item>
+<item><uf>PE</uf><cidade>SIRINHAEM</cidade><cep_inicial>55580000</cep_inicial><cep_final>55589999</cep_final></item>
+<item><uf>PE</uf><cidade>SOLIDAO</cidade><cep_inicial>56795000</cep_inicial><cep_final>56799999</cep_final></item>
+<item><uf>PE</uf><cidade>SURUBIM</cidade><cep_inicial>55750000</cep_inicial><cep_final>55754999</cep_final></item>
+<item><uf>PE</uf><cidade>TABIRA</cidade><cep_inicial>56780000</cep_inicial><cep_final>56794999</cep_final></item>
+<item><uf>PE</uf><cidade>TACAIMBO</cidade><cep_inicial>55140000</cep_inicial><cep_final>55149999</cep_final></item>
+<item><uf>PE</uf><cidade>TACARATU</cidade><cep_inicial>56480000</cep_inicial><cep_final>56499999</cep_final></item>
+<item><uf>PE</uf><cidade>TAMANDARE</cidade><cep_inicial>55578000</cep_inicial><cep_final>55579999</cep_final></item>
+<item><uf>PE</uf><cidade>TAQUARITINGA DO NORTE</cidade><cep_inicial>55790000</cep_inicial><cep_final>55799999</cep_final></item>
+<item><uf>PE</uf><cidade>TEREZINHA</cidade><cep_inicial>55305000</cep_inicial><cep_final>55309999</cep_final></item>
+<item><uf>PE</uf><cidade>TERRA NOVA</cidade><cep_inicial>56190000</cep_inicial><cep_final>56199999</cep_final></item>
+<item><uf>PE</uf><cidade>TIMBAUBA</cidade><cep_inicial>55870000</cep_inicial><cep_final>55879999</cep_final></item>
+<item><uf>PE</uf><cidade>TORITAMA</cidade><cep_inicial>55125000</cep_inicial><cep_final>55129999</cep_final></item>
+<item><uf>PE</uf><cidade>TRACUNHAEM</cidade><cep_inicial>55805000</cep_inicial><cep_final>55809999</cep_final></item>
+<item><uf>PE</uf><cidade>TRINDADE</cidade><cep_inicial>56250000</cep_inicial><cep_final>56259999</cep_final></item>
+<item><uf>PE</uf><cidade>TRIUNFO</cidade><cep_inicial>56870000</cep_inicial><cep_final>56894999</cep_final></item>
+<item><uf>PE</uf><cidade>TUPANATINGA</cidade><cep_inicial>56540000</cep_inicial><cep_final>56549999</cep_final></item>
+<item><uf>PE</uf><cidade>TUPARETAMA</cidade><cep_inicial>56760000</cep_inicial><cep_final>56779999</cep_final></item>
+<item><uf>PE</uf><cidade>VENTUROSA</cidade><cep_inicial>55270000</cep_inicial><cep_final>55279999</cep_final></item>
+<item><uf>PE</uf><cidade>VERDEJANTE</cidade><cep_inicial>56120000</cep_inicial><cep_final>56129999</cep_final></item>
+<item><uf>PE</uf><cidade>VERTENTE DO LERIO</cidade><cep_inicial>55760000</cep_inicial><cep_final>55764999</cep_final></item>
+<item><uf>PE</uf><cidade>VERTENTES</cidade><cep_inicial>55770000</cep_inicial><cep_final>55779999</cep_final></item>
+<item><uf>PE</uf><cidade>VICENCIA</cidade><cep_inicial>55850000</cep_inicial><cep_final>55859999</cep_final></item>
+<item><uf>PE</uf><cidade>VITORIA DE SANTO ANTAO</cidade><cep_inicial>55600001</cep_inicial><cep_final>55619999</cep_final></item>
+<item><uf>PE</uf><cidade>XEXEU</cidade><cep_inicial>55555000</cep_inicial><cep_final>55559999</cep_final></item>
+<item><uf>PE</uf><cidade>ABREU E LIMA</cidade><cep_inicial>53500001</cep_inicial><cep_final>53599999</cep_final></item>
+<item><uf>PE</uf><cidade>AFOGADOS DA INGAZEIRA</cidade><cep_inicial>56800000</cep_inicial><cep_final>56819999</cep_final></item>
+<item><uf>PE</uf><cidade>AFRANIO</cidade><cep_inicial>56360000</cep_inicial><cep_final>56379999</cep_final></item>
+<item><uf>PE</uf><cidade>AGRESTINA</cidade><cep_inicial>55495000</cep_inicial><cep_final>55499999</cep_final></item>
+<item><uf>PE</uf><cidade>AGUA PRETA</cidade><cep_inicial>55550000</cep_inicial><cep_final>55554999</cep_final></item>
+<item><uf>PE</uf><cidade>AGUAS BELAS</cidade><cep_inicial>55340000</cep_inicial><cep_final>55344999</cep_final></item>
+<item><uf>PE</uf><cidade>ALAGOINHA</cidade><cep_inicial>55260000</cep_inicial><cep_final>55269999</cep_final></item>
+<item><uf>PE</uf><cidade>ALIANCA</cidade><cep_inicial>55890000</cep_inicial><cep_final>55899999</cep_final></item>
+<item><uf>PE</uf><cidade>ALTINHO</cidade><cep_inicial>55490000</cep_inicial><cep_final>55494999</cep_final></item>
+<item><uf>PE</uf><cidade>AMARAJI</cidade><cep_inicial>55515000</cep_inicial><cep_final>55519999</cep_final></item>
+<item><uf>PE</uf><cidade>ANGELIM</cidade><cep_inicial>55430000</cep_inicial><cep_final>55434999</cep_final></item>
+<item><uf>PE</uf><cidade>ARACOIABA</cidade><cep_inicial>53690000</cep_inicial><cep_final>53699999</cep_final></item>
+<item><uf>PE</uf><cidade>ARARIPINA</cidade><cep_inicial>56280000</cep_inicial><cep_final>56299999</cep_final></item>
+<item><uf>PE</uf><cidade>ARCOVERDE</cidade><cep_inicial>56500001</cep_inicial><cep_final>56519999</cep_final></item>
+<item><uf>PE</uf><cidade>BARRA DE GUABIRABA</cidade><cep_inicial>55690000</cep_inicial><cep_final>55694999</cep_final></item>
+<item><uf>PE</uf><cidade>BARREIROS</cidade><cep_inicial>55560000</cep_inicial><cep_final>55564999</cep_final></item>
+<item><uf>PE</uf><cidade>BELEM DE MARIA</cidade><cep_inicial>55440000</cep_inicial><cep_final>55449999</cep_final></item>
+<item><uf>PE</uf><cidade>BELEM DO SAO FRANCISCO</cidade><cep_inicial>56440000</cep_inicial><cep_final>56459999</cep_final></item>
+<item><uf>PE</uf><cidade>BELO JARDIM</cidade><cep_inicial>55150001</cep_inicial><cep_final>55169999</cep_final></item>
+<item><uf>PE</uf><cidade>ABREU E LIMA</cidade><cep_inicial>53500001</cep_inicial><cep_final>53599999</cep_final></item>
+<item><uf>PE</uf><cidade>BETANIA</cidade><cep_inicial>56670000</cep_inicial><cep_final>56699999</cep_final></item>
+<item><uf>PE</uf><cidade>BEZERROS</cidade><cep_inicial>55660000</cep_inicial><cep_final>55664999</cep_final></item>
+<item><uf>PE</uf><cidade>BODOCO</cidade><cep_inicial>56220000</cep_inicial><cep_final>56229999</cep_final></item>
+<item><uf>PE</uf><cidade>BOM CONSELHO</cidade><cep_inicial>55330000</cep_inicial><cep_final>55339999</cep_final></item>
+<item><uf>PE</uf><cidade>AFOGADOS DA INGAZEIRA</cidade><cep_inicial>56800000</cep_inicial><cep_final>56819999</cep_final></item>
+<item><uf>PE</uf><cidade>AFRANIO</cidade><cep_inicial>56360000</cep_inicial><cep_final>56379999</cep_final></item>
+<item><uf>PE</uf><cidade>AGRESTINA</cidade><cep_inicial>55495000</cep_inicial><cep_final>55499999</cep_final></item>
+<item><uf>PE</uf><cidade>AGUA PRETA</cidade><cep_inicial>55550000</cep_inicial><cep_final>55554999</cep_final></item>
+<item><uf>PE</uf><cidade>AGUAS BELAS</cidade><cep_inicial>55340000</cep_inicial><cep_final>55344999</cep_final></item>
+<item><uf>PE</uf><cidade>ALAGOINHA</cidade><cep_inicial>55260000</cep_inicial><cep_final>55269999</cep_final></item>
+<item><uf>PE</uf><cidade>ALIANCA</cidade><cep_inicial>55890000</cep_inicial><cep_final>55899999</cep_final></item>
+<item><uf>PE</uf><cidade>ALTINHO</cidade><cep_inicial>55490000</cep_inicial><cep_final>55494999</cep_final></item>
+<item><uf>PE</uf><cidade>BOM JARDIM</cidade><cep_inicial>55730000</cep_inicial><cep_final>55739999</cep_final></item>
+<item><uf>PE</uf><cidade>BONITO</cidade><cep_inicial>55680000</cep_inicial><cep_final>55689999</cep_final></item>
+<item><uf>PE</uf><cidade>BREJAO</cidade><cep_inicial>55325000</cep_inicial><cep_final>55329999</cep_final></item>
+<item><uf>PE</uf><cidade>BREJINHO</cidade><cep_inicial>56740000</cep_inicial><cep_final>56749999</cep_final></item>
+<item><uf>PE</uf><cidade>BREJO DA MADRE DE DEUS</cidade><cep_inicial>55170000</cep_inicial><cep_final>55179999</cep_final></item>
+<item><uf>PE</uf><cidade>BUENOS AIRES</cidade><cep_inicial>55845000</cep_inicial><cep_final>55849999</cep_final></item>
+<item><uf>PE</uf><cidade>BUIQUE</cidade><cep_inicial>56520000</cep_inicial><cep_final>56539999</cep_final></item>
+<item><uf>PE</uf><cidade>CABO DE SANTO AGOSTINHO</cidade><cep_inicial>54500001</cep_inicial><cep_final>54599999</cep_final></item>
+<item><uf>PE</uf><cidade>CABROBO</cidade><cep_inicial>56180000</cep_inicial><cep_final>56189999</cep_final></item>
+<item><uf>PE</uf><cidade>AMARAJI</cidade><cep_inicial>55515000</cep_inicial><cep_final>55519999</cep_final></item>
+<item><uf>PE</uf><cidade>ANGELIM</cidade><cep_inicial>55430000</cep_inicial><cep_final>55434999</cep_final></item>
+<item><uf>PE</uf><cidade>ARACOIABA</cidade><cep_inicial>53690000</cep_inicial><cep_final>53699999</cep_final></item>
+<item><uf>PE</uf><cidade>ARARIPINA</cidade><cep_inicial>56280000</cep_inicial><cep_final>56299999</cep_final></item>
+<item><uf>PE</uf><cidade>ARCOVERDE</cidade><cep_inicial>56500001</cep_inicial><cep_final>56519999</cep_final></item>
+<item><uf>PE</uf><cidade>BARRA DE GUABIRABA</cidade><cep_inicial>55690000</cep_inicial><cep_final>55694999</cep_final></item>
+<item><uf>PE</uf><cidade>BARREIROS</cidade><cep_inicial>55560000</cep_inicial><cep_final>55564999</cep_final></item>
+<item><uf>PE</uf><cidade>BELEM DE MARIA</cidade><cep_inicial>55440000</cep_inicial><cep_final>55449999</cep_final></item>
+<item><uf>PE</uf><cidade>BELEM DO SAO FRANCISCO</cidade><cep_inicial>56440000</cep_inicial><cep_final>56459999</cep_final></item>
+<item><uf>PE</uf><cidade>CACHOEIRINHA</cidade><cep_inicial>55380000</cep_inicial><cep_final>55384999</cep_final></item>
+<item><uf>PE</uf><cidade>CAETES</cidade><cep_inicial>55360000</cep_inicial><cep_final>55364999</cep_final></item>
+<item><uf>PE</uf><cidade>CALCADO</cidade><cep_inicial>55375000</cep_inicial><cep_final>55379999</cep_final></item>
+<item><uf>PE</uf><cidade>CALUMBI</cidade><cep_inicial>56930000</cep_inicial><cep_final>56949999</cep_final></item>
+<item><uf>PE</uf><cidade>CAMARAGIBE</cidade><cep_inicial>54750001</cep_inicial><cep_final>54799999</cep_final></item>
+<item><uf>PE</uf><cidade>CAMOCIM DE SAO FELIX</cidade><cep_inicial>55665000</cep_inicial><cep_final>55669999</cep_final></item>
+<item><uf>PE</uf><cidade>CAMUTANGA</cidade><cep_inicial>55930000</cep_inicial><cep_final>55939999</cep_final></item>
+<item><uf>PE</uf><cidade>BELO JARDIM</cidade><cep_inicial>55150001</cep_inicial><cep_final>55169999</cep_final></item>
+<item><uf>PE</uf><cidade>BETANIA</cidade><cep_inicial>56670000</cep_inicial><cep_final>56699999</cep_final></item>
+<item><uf>PE</uf><cidade>BEZERROS</cidade><cep_inicial>55660000</cep_inicial><cep_final>55664999</cep_final></item>
+<item><uf>PE</uf><cidade>BODOCO</cidade><cep_inicial>56220000</cep_inicial><cep_final>56229999</cep_final></item>
+<item><uf>PE</uf><cidade>BOM CONSELHO</cidade><cep_inicial>55330000</cep_inicial><cep_final>55339999</cep_final></item>
+<item><uf>PE</uf><cidade>BOM JARDIM</cidade><cep_inicial>55730000</cep_inicial><cep_final>55739999</cep_final></item>
+<item><uf>PE</uf><cidade>BONITO</cidade><cep_inicial>55680000</cep_inicial><cep_final>55689999</cep_final></item>
+<item><uf>PE</uf><cidade>BREJAO</cidade><cep_inicial>55325000</cep_inicial><cep_final>55329999</cep_final></item>
+<item><uf>PE</uf><cidade>BREJINHO</cidade><cep_inicial>56740000</cep_inicial><cep_final>56749999</cep_final></item>
+<item><uf>PE</uf><cidade>BREJO DA MADRE DE DEUS</cidade><cep_inicial>55170000</cep_inicial><cep_final>55179999</cep_final></item>
+<item><uf>PE</uf><cidade>BUENOS AIRES</cidade><cep_inicial>55845000</cep_inicial><cep_final>55849999</cep_final></item>
+<item><uf>PE</uf><cidade>BUIQUE</cidade><cep_inicial>56520000</cep_inicial><cep_final>56539999</cep_final></item>
+<item><uf>PE</uf><cidade>CABO DE SANTO AGOSTINHO</cidade><cep_inicial>54500001</cep_inicial><cep_final>54599999</cep_final></item>
+<item><uf>PE</uf><cidade>CABROBO</cidade><cep_inicial>56180000</cep_inicial><cep_final>56189999</cep_final></item>
+<item><uf>PE</uf><cidade>CACHOEIRINHA</cidade><cep_inicial>55380000</cep_inicial><cep_final>55384999</cep_final></item>
+<item><uf>PE</uf><cidade>CAETES</cidade><cep_inicial>55360000</cep_inicial><cep_final>55364999</cep_final></item>
+<item><uf>PE</uf><cidade>CALCADO</cidade><cep_inicial>55375000</cep_inicial><cep_final>55379999</cep_final></item>
+<item><uf>PE</uf><cidade>CALUMBI</cidade><cep_inicial>56930000</cep_inicial><cep_final>56949999</cep_final></item>
+<item><uf>PE</uf><cidade>CAMARAGIBE</cidade><cep_inicial>54750001</cep_inicial><cep_final>54799999</cep_final></item>
+<item><uf>PE</uf><cidade>CAMOCIM DE SAO FELIX</cidade><cep_inicial>55665000</cep_inicial><cep_final>55669999</cep_final></item>
+<item><uf>PE</uf><cidade>CAMUTANGA</cidade><cep_inicial>55930000</cep_inicial><cep_final>55939999</cep_final></item>
+<item><uf>PE</uf><cidade>CANHOTINHO</cidade><cep_inicial>55420000</cep_inicial><cep_final>55429999</cep_final></item>
+<item><uf>PE</uf><cidade>CAPOEIRAS</cidade><cep_inicial>55365000</cep_inicial><cep_final>55369999</cep_final></item>
+<item><uf>PE</uf><cidade>CANHOTINHO</cidade><cep_inicial>55420000</cep_inicial><cep_final>55429999</cep_final></item>
+<item><uf>PE</uf><cidade>CAPOEIRAS</cidade><cep_inicial>55365000</cep_inicial><cep_final>55369999</cep_final></item>
+<item><uf>PE</uf><cidade>CARNAIBA</cidade><cep_inicial>56820000</cep_inicial><cep_final>56827999</cep_final></item>
+<item><uf>PE</uf><cidade>CARNAUBEIRA DA PENHA</cidade><cep_inicial>56420000</cep_inicial><cep_final>56429999</cep_final></item>
+<item><uf>PE</uf><cidade>CARPINA</cidade><cep_inicial>55810001</cep_inicial><cep_final>55819999</cep_final></item>
+<item><uf>PE</uf><cidade>CARUARU</cidade><cep_inicial>55000001</cep_inicial><cep_final>55119999</cep_final></item>
+<item><uf>PE</uf><cidade>CASINHAS</cidade><cep_inicial>55755000</cep_inicial><cep_final>55759999</cep_final></item>
+<item><uf>PE</uf><cidade>CATENDE</cidade><cep_inicial>55400000</cep_inicial><cep_final>55404999</cep_final></item>
+<item><uf>PE</uf><cidade>CEDRO</cidade><cep_inicial>56130000</cep_inicial><cep_final>56139999</cep_final></item>
+<item><uf>PE</uf><cidade>CHA DE ALEGRIA</cidade><cep_inicial>55835000</cep_inicial><cep_final>55839999</cep_final></item>
+<item><uf>PE</uf><cidade>CHA GRANDE</cidade><cep_inicial>55636000</cep_inicial><cep_final>55639999</cep_final></item>
+<item><uf>PE</uf><cidade>CONDADO</cidade><cep_inicial>55940000</cep_inicial><cep_final>55949999</cep_final></item>
+<item><uf>PE</uf><cidade>CORRENTES</cidade><cep_inicial>55315000</cep_inicial><cep_final>55319999</cep_final></item>
+<item><uf>PE</uf><cidade>CORTES</cidade><cep_inicial>55525000</cep_inicial><cep_final>55529999</cep_final></item>
+<item><uf>PE</uf><cidade>CUMARU</cidade><cep_inicial>55655000</cep_inicial><cep_final>55659999</cep_final></item>
+<item><uf>PE</uf><cidade>CUPIRA</cidade><cep_inicial>55460000</cep_inicial><cep_final>55469999</cep_final></item>
+<item><uf>PE</uf><cidade>CUSTODIA</cidade><cep_inicial>56640000</cep_inicial><cep_final>56669999</cep_final></item>
+<item><uf>PE</uf><cidade>DORMENTES</cidade><cep_inicial>56355000</cep_inicial><cep_final>56359999</cep_final></item>
+<item><uf>PE</uf><cidade>ESCADA</cidade><cep_inicial>55500000</cep_inicial><cep_final>55509999</cep_final></item>
+<item><uf>PE</uf><cidade>EXU</cidade><cep_inicial>56230000</cep_inicial><cep_final>56249999</cep_final></item>
+<item><uf>PE</uf><cidade>FEIRA NOVA</cidade><cep_inicial>55715000</cep_inicial><cep_final>55719999</cep_final></item>
+<item><uf>PE</uf><cidade>FERNANDO DE NORONHA</cidade><cep_inicial>53990000</cep_inicial><cep_final>53999999</cep_final></item>
+<item><uf>PE</uf><cidade>FERREIROS</cidade><cep_inicial>55880000</cep_inicial><cep_final>55889999</cep_final></item>
+<item><uf>PE</uf><cidade>FLORES</cidade><cep_inicial>56850000</cep_inicial><cep_final>56869999</cep_final></item>
+<item><uf>PE</uf><cidade>FLORESTA</cidade><cep_inicial>56400000</cep_inicial><cep_final>56419999</cep_final></item>
+<item><uf>PE</uf><cidade>CARNAIBA</cidade><cep_inicial>56820000</cep_inicial><cep_final>56827999</cep_final></item>
+<item><uf>PE</uf><cidade>CARNAUBEIRA DA PENHA</cidade><cep_inicial>56420000</cep_inicial><cep_final>56429999</cep_final></item>
+<item><uf>PE</uf><cidade>CARPINA</cidade><cep_inicial>55810001</cep_inicial><cep_final>55819999</cep_final></item>
+<item><uf>PE</uf><cidade>CARUARU</cidade><cep_inicial>55000001</cep_inicial><cep_final>55119999</cep_final></item>
+<item><uf>PE</uf><cidade>CASINHAS</cidade><cep_inicial>55755000</cep_inicial><cep_final>55759999</cep_final></item>
+<item><uf>PE</uf><cidade>CATENDE</cidade><cep_inicial>55400000</cep_inicial><cep_final>55404999</cep_final></item>
+<item><uf>PE</uf><cidade>CEDRO</cidade><cep_inicial>56130000</cep_inicial><cep_final>56139999</cep_final></item>
+<item><uf>PE</uf><cidade>CHA DE ALEGRIA</cidade><cep_inicial>55835000</cep_inicial><cep_final>55839999</cep_final></item>
+<item><uf>PE</uf><cidade>CHA GRANDE</cidade><cep_inicial>55636000</cep_inicial><cep_final>55639999</cep_final></item>
+<item><uf>PE</uf><cidade>CONDADO</cidade><cep_inicial>55940000</cep_inicial><cep_final>55949999</cep_final></item>
+<item><uf>PE</uf><cidade>CORRENTES</cidade><cep_inicial>55315000</cep_inicial><cep_final>55319999</cep_final></item>
+<item><uf>PE</uf><cidade>CORTES</cidade><cep_inicial>55525000</cep_inicial><cep_final>55529999</cep_final></item>
+<item><uf>PE</uf><cidade>CUMARU</cidade><cep_inicial>55655000</cep_inicial><cep_final>55659999</cep_final></item>
+<item><uf>PE</uf><cidade>CUPIRA</cidade><cep_inicial>55460000</cep_inicial><cep_final>55469999</cep_final></item>
+<item><uf>PE</uf><cidade>CUSTODIA</cidade><cep_inicial>56640000</cep_inicial><cep_final>56669999</cep_final></item>
+<item><uf>PE</uf><cidade>DORMENTES</cidade><cep_inicial>56355000</cep_inicial><cep_final>56359999</cep_final></item>
+<item><uf>PE</uf><cidade>ESCADA</cidade><cep_inicial>55500000</cep_inicial><cep_final>55509999</cep_final></item>
+<item><uf>PE</uf><cidade>EXU</cidade><cep_inicial>56230000</cep_inicial><cep_final>56249999</cep_final></item>
+<item><uf>PE</uf><cidade>FEIRA NOVA</cidade><cep_inicial>55715000</cep_inicial><cep_final>55719999</cep_final></item>
+<item><uf>PE</uf><cidade>FERNANDO DE NORONHA</cidade><cep_inicial>53990000</cep_inicial><cep_final>53999999</cep_final></item>
+<item><uf>PE</uf><cidade>FERREIROS</cidade><cep_inicial>55880000</cep_inicial><cep_final>55889999</cep_final></item>
+<item><uf>PE</uf><cidade>FLORES</cidade><cep_inicial>56850000</cep_inicial><cep_final>56869999</cep_final></item>
+<item><uf>PE</uf><cidade>FLORESTA</cidade><cep_inicial>56400000</cep_inicial><cep_final>56419999</cep_final></item>
+<item><uf>PE</uf><cidade>FREI MIGUELINHO</cidade><cep_inicial>55780000</cep_inicial><cep_final>55789999</cep_final></item>
+<item><uf>PE</uf><cidade>GAMELEIRA</cidade><cep_inicial>55530000</cep_inicial><cep_final>55534999</cep_final></item>
+<item><uf>PE</uf><cidade>FREI MIGUELINHO</cidade><cep_inicial>55780000</cep_inicial><cep_final>55789999</cep_final></item>
+<item><uf>PE</uf><cidade>GAMELEIRA</cidade><cep_inicial>55530000</cep_inicial><cep_final>55534999</cep_final></item>
+<item><uf>PE</uf><cidade>GARANHUNS</cidade><cep_inicial>55290001</cep_inicial><cep_final>55304999</cep_final></item>
+<item><uf>PE</uf><cidade>GLORIA DO GOITA</cidade><cep_inicial>55620000</cep_inicial><cep_final>55629999</cep_final></item>
+<item><uf>PE</uf><cidade>GOIANA</cidade><cep_inicial>55900000</cep_inicial><cep_final>55919999</cep_final></item>
+<item><uf>PE</uf><cidade>GRANITO</cidade><cep_inicial>56160000</cep_inicial><cep_final>56162999</cep_final></item>
+<item><uf>PE</uf><cidade>GRAVATA</cidade><cep_inicial>55640001</cep_inicial><cep_final>55649999</cep_final></item>
+<item><uf>PE</uf><cidade>IATI</cidade><cep_inicial>55345000</cep_inicial><cep_final>55349999</cep_final></item>
+<item><uf>PE</uf><cidade>IBIMIRIM</cidade><cep_inicial>56580000</cep_inicial><cep_final>56599999</cep_final></item>
+<item><uf>PE</uf><cidade>IBIRAJUBA</cidade><cep_inicial>55390000</cep_inicial><cep_final>55394999</cep_final></item>
+<item><uf>PE</uf><cidade>IGARASSU</cidade><cep_inicial>53600001</cep_inicial><cep_final>53689999</cep_final></item>
+<item><uf>PE</uf><cidade>IGUARACI</cidade><cep_inicial>56840000</cep_inicial><cep_final>56849999</cep_final></item>
+<item><uf>PE</uf><cidade>ILHA DE ITAMARACA</cidade><cep_inicial>53900000</cep_inicial><cep_final>53989999</cep_final></item>
+<item><uf>PE</uf><cidade>INAJA</cidade><cep_inicial>56560000</cep_inicial><cep_final>56564999</cep_final></item>
+<item><uf>PE</uf><cidade>INGAZEIRA</cidade><cep_inicial>56830000</cep_inicial><cep_final>56839999</cep_final></item>
+<item><uf>PE</uf><cidade>IPOJUCA</cidade><cep_inicial>55590000</cep_inicial><cep_final>55599999</cep_final></item>
+<item><uf>PE</uf><cidade>IPUBI</cidade><cep_inicial>56260000</cep_inicial><cep_final>56279999</cep_final></item>
+<item><uf>PE</uf><cidade>ITACURUBA</cidade><cep_inicial>56430000</cep_inicial><cep_final>56439999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAIBA</cidade><cep_inicial>56550000</cep_inicial><cep_final>56559999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAMBE</cidade><cep_inicial>55920000</cep_inicial><cep_final>55929999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAPETIM</cidade><cep_inicial>56720000</cep_inicial><cep_final>56739999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAPISSUMA</cidade><cep_inicial>53700000</cep_inicial><cep_final>53899999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAQUITINGA</cidade><cep_inicial>55950000</cep_inicial><cep_final>55999999</cep_final></item>
+<item><uf>PE</uf><cidade>JABOATAO DOS GUARARAPES</cidade><cep_inicial>54000001</cep_inicial><cep_final>54499999</cep_final></item>
+<item><uf>PE</uf><cidade>JAQUEIRA</cidade><cep_inicial>55409000</cep_inicial><cep_final>55409999</cep_final></item>
+<item><uf>PE</uf><cidade>JATAUBA</cidade><cep_inicial>55180000</cep_inicial><cep_final>55189999</cep_final></item>
+<item><uf>PE</uf><cidade>JATOBA</cidade><cep_inicial>56470000</cep_inicial><cep_final>56479999</cep_final></item>
+<item><uf>PE</uf><cidade>JOAO ALFREDO</cidade><cep_inicial>55720000</cep_inicial><cep_final>55729999</cep_final></item>
+<item><uf>PE</uf><cidade>JOAQUIM NABUCO</cidade><cep_inicial>55535000</cep_inicial><cep_final>55539999</cep_final></item>
+<item><uf>PE</uf><cidade>JUCATI</cidade><cep_inicial>55398000</cep_inicial><cep_final>55399999</cep_final></item>
+<item><uf>PE</uf><cidade>JUPI</cidade><cep_inicial>55395000</cep_inicial><cep_final>55397999</cep_final></item>
+<item><uf>PE</uf><cidade>JUREMA</cidade><cep_inicial>55480000</cep_inicial><cep_final>55489999</cep_final></item>
+<item><uf>PE</uf><cidade>GARANHUNS</cidade><cep_inicial>55290001</cep_inicial><cep_final>55304999</cep_final></item>
+<item><uf>PE</uf><cidade>GLORIA DO GOITA</cidade><cep_inicial>55620000</cep_inicial><cep_final>55629999</cep_final></item>
+<item><uf>PE</uf><cidade>GOIANA</cidade><cep_inicial>55900000</cep_inicial><cep_final>55919999</cep_final></item>
+<item><uf>PE</uf><cidade>GRANITO</cidade><cep_inicial>56160000</cep_inicial><cep_final>56162999</cep_final></item>
+<item><uf>PE</uf><cidade>GRAVATA</cidade><cep_inicial>55640001</cep_inicial><cep_final>55649999</cep_final></item>
+<item><uf>PE</uf><cidade>IATI</cidade><cep_inicial>55345000</cep_inicial><cep_final>55349999</cep_final></item>
+<item><uf>PE</uf><cidade>IBIMIRIM</cidade><cep_inicial>56580000</cep_inicial><cep_final>56599999</cep_final></item>
+<item><uf>PE</uf><cidade>IBIRAJUBA</cidade><cep_inicial>55390000</cep_inicial><cep_final>55394999</cep_final></item>
+<item><uf>PE</uf><cidade>IGARASSU</cidade><cep_inicial>53600001</cep_inicial><cep_final>53689999</cep_final></item>
+<item><uf>PE</uf><cidade>IGUARACI</cidade><cep_inicial>56840000</cep_inicial><cep_final>56849999</cep_final></item>
+<item><uf>PE</uf><cidade>ILHA DE ITAMARACA</cidade><cep_inicial>53900000</cep_inicial><cep_final>53989999</cep_final></item>
+<item><uf>PE</uf><cidade>INAJA</cidade><cep_inicial>56560000</cep_inicial><cep_final>56564999</cep_final></item>
+<item><uf>PE</uf><cidade>INGAZEIRA</cidade><cep_inicial>56830000</cep_inicial><cep_final>56839999</cep_final></item>
+<item><uf>PE</uf><cidade>IPOJUCA</cidade><cep_inicial>55590000</cep_inicial><cep_final>55599999</cep_final></item>
+<item><uf>PE</uf><cidade>IPUBI</cidade><cep_inicial>56260000</cep_inicial><cep_final>56279999</cep_final></item>
+<item><uf>PE</uf><cidade>ITACURUBA</cidade><cep_inicial>56430000</cep_inicial><cep_final>56439999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAIBA</cidade><cep_inicial>56550000</cep_inicial><cep_final>56559999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAMBE</cidade><cep_inicial>55920000</cep_inicial><cep_final>55929999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAPETIM</cidade><cep_inicial>56720000</cep_inicial><cep_final>56739999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAPISSUMA</cidade><cep_inicial>53700000</cep_inicial><cep_final>53899999</cep_final></item>
+<item><uf>PE</uf><cidade>ITAQUITINGA</cidade><cep_inicial>55950000</cep_inicial><cep_final>55999999</cep_final></item>
+<item><uf>PE</uf><cidade>JABOATAO DOS GUARARAPES</cidade><cep_inicial>54000001</cep_inicial><cep_final>54499999</cep_final></item>
+<item><uf>PE</uf><cidade>JAQUEIRA</cidade><cep_inicial>55409000</cep_inicial><cep_final>55409999</cep_final></item>
+<item><uf>PE</uf><cidade>JATAUBA</cidade><cep_inicial>55180000</cep_inicial><cep_final>55189999</cep_final></item>
+<item><uf>PE</uf><cidade>JATOBA</cidade><cep_inicial>56470000</cep_inicial><cep_final>56479999</cep_final></item>
+<item><uf>PE</uf><cidade>JOAO ALFREDO</cidade><cep_inicial>55720000</cep_inicial><cep_final>55729999</cep_final></item>
+<item><uf>PE</uf><cidade>JOAQUIM NABUCO</cidade><cep_inicial>55535000</cep_inicial><cep_final>55539999</cep_final></item>
+<item><uf>PE</uf><cidade>JUCATI</cidade><cep_inicial>55398000</cep_inicial><cep_final>55399999</cep_final></item>
+<item><uf>PE</uf><cidade>JUPI</cidade><cep_inicial>55395000</cep_inicial><cep_final>55397999</cep_final></item>
+<item><uf>PE</uf><cidade>JUREMA</cidade><cep_inicial>55480000</cep_inicial><cep_final>55489999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DO CARRO</cidade><cep_inicial>55820000</cep_inicial><cep_final>55824999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DO ITAENGA</cidade><cep_inicial>55840000</cep_inicial><cep_final>55844999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DO CARRO</cidade><cep_inicial>55820000</cep_inicial><cep_final>55824999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DO ITAENGA</cidade><cep_inicial>55840000</cep_inicial><cep_final>55844999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DO OURO</cidade><cep_inicial>55320000</cep_inicial><cep_final>55324999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DOS GATOS</cidade><cep_inicial>55450000</cep_inicial><cep_final>55459999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA GRANDE</cidade><cep_inicial>56395000</cep_inicial><cep_final>56399999</cep_final></item>
+<item><uf>PE</uf><cidade>LAJEDO</cidade><cep_inicial>55385000</cep_inicial><cep_final>55389999</cep_final></item>
+<item><uf>PE</uf><cidade>LIMOEIRO</cidade><cep_inicial>55700000</cep_inicial><cep_final>55714999</cep_final></item>
+<item><uf>PE</uf><cidade>MACAPARANA</cidade><cep_inicial>55865000</cep_inicial><cep_final>55869999</cep_final></item>
+<item><uf>PE</uf><cidade>MACHADOS</cidade><cep_inicial>55740000</cep_inicial><cep_final>55744999</cep_final></item>
+<item><uf>PE</uf><cidade>MANARI</cidade><cep_inicial>56565000</cep_inicial><cep_final>56579999</cep_final></item>
+<item><uf>PE</uf><cidade>MARAIAL</cidade><cep_inicial>55405000</cep_inicial><cep_final>55408999</cep_final></item>
+<item><uf>PE</uf><cidade>MIRANDIBA</cidade><cep_inicial>56980000</cep_inicial><cep_final>56999999</cep_final></item>
+<item><uf>PE</uf><cidade>MOREILANDIA</cidade><cep_inicial>56150000</cep_inicial><cep_final>56159999</cep_final></item>
+<item><uf>PE</uf><cidade>MORENO</cidade><cep_inicial>54800000</cep_inicial><cep_final>54999999</cep_final></item>
+<item><uf>PE</uf><cidade>NAZARE DA MATA</cidade><cep_inicial>55800000</cep_inicial><cep_final>55804999</cep_final></item>
+<item><uf>PE</uf><cidade>OLINDA</cidade><cep_inicial>53000001</cep_inicial><cep_final>53399999</cep_final></item>
+<item><uf>PE</uf><cidade>OROBO</cidade><cep_inicial>55745000</cep_inicial><cep_final>55749999</cep_final></item>
+<item><uf>PE</uf><cidade>OROCO</cidade><cep_inicial>56170000</cep_inicial><cep_final>56179999</cep_final></item>
+<item><uf>PE</uf><cidade>OURICURI</cidade><cep_inicial>56200000</cep_inicial><cep_final>56209999</cep_final></item>
+<item><uf>PE</uf><cidade>PALMARES</cidade><cep_inicial>55540000</cep_inicial><cep_final>55549999</cep_final></item>
+<item><uf>PE</uf><cidade>PALMEIRINA</cidade><cep_inicial>55310000</cep_inicial><cep_final>55314999</cep_final></item>
+<item><uf>PE</uf><cidade>PANELAS</cidade><cep_inicial>55470000</cep_inicial><cep_final>55479999</cep_final></item>
+<item><uf>PE</uf><cidade>PARANATAMA</cidade><cep_inicial>55355000</cep_inicial><cep_final>55359999</cep_final></item>
+<item><uf>PE</uf><cidade>PARNAMIRIM</cidade><cep_inicial>56163000</cep_inicial><cep_final>56169999</cep_final></item>
+<item><uf>PE</uf><cidade>PASSIRA</cidade><cep_inicial>55650000</cep_inicial><cep_final>55654999</cep_final></item>
+<item><uf>PE</uf><cidade>PAUDALHO</cidade><cep_inicial>55825000</cep_inicial><cep_final>55834999</cep_final></item>
+<item><uf>PE</uf><cidade>PAULISTA</cidade><cep_inicial>53400001</cep_inicial><cep_final>53499999</cep_final></item>
+<item><uf>PE</uf><cidade>PEDRA</cidade><cep_inicial>55280000</cep_inicial><cep_final>55289999</cep_final></item>
+<item><uf>PE</uf><cidade>PESQUEIRA</cidade><cep_inicial>55200000</cep_inicial><cep_final>55239999</cep_final></item>
+<item><uf>PE</uf><cidade>PETROLANDIA</cidade><cep_inicial>56460000</cep_inicial><cep_final>56469999</cep_final></item>
+<item><uf>PE</uf><cidade>PETROLINA</cidade><cep_inicial>56300001</cep_inicial><cep_final>56354999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DO OURO</cidade><cep_inicial>55320000</cep_inicial><cep_final>55324999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA DOS GATOS</cidade><cep_inicial>55450000</cep_inicial><cep_final>55459999</cep_final></item>
+<item><uf>PE</uf><cidade>LAGOA GRANDE</cidade><cep_inicial>56395000</cep_inicial><cep_final>56399999</cep_final></item>
+<item><uf>PE</uf><cidade>LAJEDO</cidade><cep_inicial>55385000</cep_inicial><cep_final>55389999</cep_final></item>
+<item><uf>PE</uf><cidade>LIMOEIRO</cidade><cep_inicial>55700000</cep_inicial><cep_final>55714999</cep_final></item>
+<item><uf>PE</uf><cidade>MACAPARANA</cidade><cep_inicial>55865000</cep_inicial><cep_final>55869999</cep_final></item>
+<item><uf>PE</uf><cidade>MACHADOS</cidade><cep_inicial>55740000</cep_inicial><cep_final>55744999</cep_final></item>
+<item><uf>PE</uf><cidade>MANARI</cidade><cep_inicial>56565000</cep_inicial><cep_final>56579999</cep_final></item>
+<item><uf>PE</uf><cidade>MARAIAL</cidade><cep_inicial>55405000</cep_inicial><cep_final>55408999</cep_final></item>
+<item><uf>PE</uf><cidade>MIRANDIBA</cidade><cep_inicial>56980000</cep_inicial><cep_final>56999999</cep_final></item>
+<item><uf>PE</uf><cidade>MOREILANDIA</cidade><cep_inicial>56150000</cep_inicial><cep_final>56159999</cep_final></item>
+<item><uf>PE</uf><cidade>MORENO</cidade><cep_inicial>54800000</cep_inicial><cep_final>54999999</cep_final></item>
+<item><uf>PE</uf><cidade>NAZARE DA MATA</cidade><cep_inicial>55800000</cep_inicial><cep_final>55804999</cep_final></item>
+<item><uf>PE</uf><cidade>OLINDA</cidade><cep_inicial>53000001</cep_inicial><cep_final>53399999</cep_final></item>
+<item><uf>PE</uf><cidade>OROBO</cidade><cep_inicial>55745000</cep_inicial><cep_final>55749999</cep_final></item>
+<item><uf>PE</uf><cidade>OROCO</cidade><cep_inicial>56170000</cep_inicial><cep_final>56179999</cep_final></item>
+<item><uf>PE</uf><cidade>OURICURI</cidade><cep_inicial>56200000</cep_inicial><cep_final>56209999</cep_final></item>
+<item><uf>PE</uf><cidade>PALMARES</cidade><cep_inicial>55540000</cep_inicial><cep_final>55549999</cep_final></item>
+<item><uf>PE</uf><cidade>PALMEIRINA</cidade><cep_inicial>55310000</cep_inicial><cep_final>55314999</cep_final></item>
+<item><uf>PE</uf><cidade>PANELAS</cidade><cep_inicial>55470000</cep_inicial><cep_final>55479999</cep_final></item>
+<item><uf>PE</uf><cidade>PARANATAMA</cidade><cep_inicial>55355000</cep_inicial><cep_final>55359999</cep_final></item>
+<item><uf>PE</uf><cidade>PARNAMIRIM</cidade><cep_inicial>56163000</cep_inicial><cep_final>56169999</cep_final></item>
+<item><uf>PE</uf><cidade>PASSIRA</cidade><cep_inicial>55650000</cep_inicial><cep_final>55654999</cep_final></item>
+<item><uf>PE</uf><cidade>PAUDALHO</cidade><cep_inicial>55825000</cep_inicial><cep_final>55834999</cep_final></item>
+<item><uf>PE</uf><cidade>PAULISTA</cidade><cep_inicial>53400001</cep_inicial><cep_final>53499999</cep_final></item>
+<item><uf>PE</uf><cidade>PEDRA</cidade><cep_inicial>55280000</cep_inicial><cep_final>55289999</cep_final></item>
+<item><uf>PE</uf><cidade>PESQUEIRA</cidade><cep_inicial>55200000</cep_inicial><cep_final>55239999</cep_final></item>
+<item><uf>PE</uf><cidade>PETROLANDIA</cidade><cep_inicial>56460000</cep_inicial><cep_final>56469999</cep_final></item>
+<item><uf>PE</uf><cidade>PETROLINA</cidade><cep_inicial>56300001</cep_inicial><cep_final>56354999</cep_final></item>
+<item><uf>PE</uf><cidade>POCAO</cidade><cep_inicial>55240000</cep_inicial><cep_final>55249999</cep_final></item>
+<item><uf>PE</uf><cidade>POMBOS</cidade><cep_inicial>55630000</cep_inicial><cep_final>55635999</cep_final></item>
+<item><uf>PE</uf><cidade>PRIMAVERA</cidade><cep_inicial>55510000</cep_inicial><cep_final>55514999</cep_final></item>
+<item><uf>PE</uf><cidade>QUIPAPA</cidade><cep_inicial>55415000</cep_inicial><cep_final>55419999</cep_final></item>
+<item><uf>PE</uf><cidade>QUIXABA</cidade><cep_inicial>56828000</cep_inicial><cep_final>56829999</cep_final></item>
+<item><uf>PE</uf><cidade>RECIFE</cidade><cep_inicial>50000001</cep_inicial><cep_final>52999999</cep_final></item>
+<item><uf>PE</uf><cidade>RIACHO DAS ALMAS</cidade><cep_inicial>55120000</cep_inicial><cep_final>55124999</cep_final></item>
+<item><uf>PE</uf><cidade>RIBEIRAO</cidade><cep_inicial>55520000</cep_inicial><cep_final>55524999</cep_final></item>
+<item><uf>PE</uf><cidade>RIO FORMOSO</cidade><cep_inicial>55570000</cep_inicial><cep_final>55577999</cep_final></item>
+<item><uf>PE</uf><cidade>SAIRE</cidade><cep_inicial>55695000</cep_inicial><cep_final>55699999</cep_final></item>
+<item><uf>PE</uf><cidade>SALGADINHO</cidade><cep_inicial>55675000</cep_inicial><cep_final>55679999</cep_final></item>
+<item><uf>PE</uf><cidade>SALGUEIRO</cidade><cep_inicial>56000000</cep_inicial><cep_final>56119999</cep_final></item>
+<item><uf>PE</uf><cidade>SALOA</cidade><cep_inicial>55350000</cep_inicial><cep_final>55354999</cep_final></item>
+<item><uf>PE</uf><cidade>SANHARO</cidade><cep_inicial>55250000</cep_inicial><cep_final>55259999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA CRUZ</cidade><cep_inicial>56215000</cep_inicial><cep_final>56219999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA CRUZ DA BAIXA VERDE</cidade><cep_inicial>56895000</cep_inicial><cep_final>56899999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA CRUZ DO CAPIBARIBE</cidade><cep_inicial>55190001</cep_inicial><cep_final>55199999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA FILOMENA</cidade><cep_inicial>56210000</cep_inicial><cep_final>56214999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA MARIA DA BOA VISTA</cidade><cep_inicial>56380000</cep_inicial><cep_final>56394999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA MARIA DO CAMBUCA</cidade><cep_inicial>55765000</cep_inicial><cep_final>55769999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA TEREZINHA</cidade><cep_inicial>56750000</cep_inicial><cep_final>56759999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO BENEDITO DO SUL</cidade><cep_inicial>55410000</cep_inicial><cep_final>55414999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO BENTO DO UNA</cidade><cep_inicial>55370000</cep_inicial><cep_final>55374999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO CAITANO</cidade><cep_inicial>55130000</cep_inicial><cep_final>55139999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOAO</cidade><cep_inicial>55435000</cep_inicial><cep_final>55439999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOAQUIM DO MONTE</cidade><cep_inicial>55670000</cep_inicial><cep_final>55674999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOSE DA COROA GRANDE</cidade><cep_inicial>55565000</cep_inicial><cep_final>55569999</cep_final></item>
+<item><uf>PE</uf><cidade>POCAO</cidade><cep_inicial>55240000</cep_inicial><cep_final>55249999</cep_final></item>
+<item><uf>PE</uf><cidade>POMBOS</cidade><cep_inicial>55630000</cep_inicial><cep_final>55635999</cep_final></item>
+<item><uf>PE</uf><cidade>PRIMAVERA</cidade><cep_inicial>55510000</cep_inicial><cep_final>55514999</cep_final></item>
+<item><uf>PE</uf><cidade>QUIPAPA</cidade><cep_inicial>55415000</cep_inicial><cep_final>55419999</cep_final></item>
+<item><uf>PE</uf><cidade>QUIXABA</cidade><cep_inicial>56828000</cep_inicial><cep_final>56829999</cep_final></item>
+<item><uf>PE</uf><cidade>RECIFE</cidade><cep_inicial>50000001</cep_inicial><cep_final>52999999</cep_final></item>
+<item><uf>PE</uf><cidade>RIACHO DAS ALMAS</cidade><cep_inicial>55120000</cep_inicial><cep_final>55124999</cep_final></item>
+<item><uf>PE</uf><cidade>RIBEIRAO</cidade><cep_inicial>55520000</cep_inicial><cep_final>55524999</cep_final></item>
+<item><uf>PE</uf><cidade>RIO FORMOSO</cidade><cep_inicial>55570000</cep_inicial><cep_final>55577999</cep_final></item>
+<item><uf>PE</uf><cidade>SAIRE</cidade><cep_inicial>55695000</cep_inicial><cep_final>55699999</cep_final></item>
+<item><uf>PE</uf><cidade>SALGADINHO</cidade><cep_inicial>55675000</cep_inicial><cep_final>55679999</cep_final></item>
+<item><uf>PE</uf><cidade>SALGUEIRO</cidade><cep_inicial>56000000</cep_inicial><cep_final>56119999</cep_final></item>
+<item><uf>PE</uf><cidade>SALOA</cidade><cep_inicial>55350000</cep_inicial><cep_final>55354999</cep_final></item>
+<item><uf>PE</uf><cidade>SANHARO</cidade><cep_inicial>55250000</cep_inicial><cep_final>55259999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA CRUZ</cidade><cep_inicial>56215000</cep_inicial><cep_final>56219999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA CRUZ DA BAIXA VERDE</cidade><cep_inicial>56895000</cep_inicial><cep_final>56899999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA CRUZ DO CAPIBARIBE</cidade><cep_inicial>55190001</cep_inicial><cep_final>55199999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA FILOMENA</cidade><cep_inicial>56210000</cep_inicial><cep_final>56214999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA MARIA DA BOA VISTA</cidade><cep_inicial>56380000</cep_inicial><cep_final>56394999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA MARIA DO CAMBUCA</cidade><cep_inicial>55765000</cep_inicial><cep_final>55769999</cep_final></item>
+<item><uf>PE</uf><cidade>SANTA TEREZINHA</cidade><cep_inicial>56750000</cep_inicial><cep_final>56759999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO BENEDITO DO SUL</cidade><cep_inicial>55410000</cep_inicial><cep_final>55414999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO BENTO DO UNA</cidade><cep_inicial>55370000</cep_inicial><cep_final>55374999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO CAITANO</cidade><cep_inicial>55130000</cep_inicial><cep_final>55139999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOAO</cidade><cep_inicial>55435000</cep_inicial><cep_final>55439999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOSE DO BELMONTE</cidade><cep_inicial>56950000</cep_inicial><cep_final>56979999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOSE DO EGITO</cidade><cep_inicial>56700000</cep_inicial><cep_final>56719999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO LOURENCO DA MATA</cidade><cep_inicial>54700001</cep_inicial><cep_final>54749999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO VICENTE FERRER</cidade><cep_inicial>55860000</cep_inicial><cep_final>55864999</cep_final></item>
+<item><uf>PE</uf><cidade>SERRA TALHADA</cidade><cep_inicial>56900001</cep_inicial><cep_final>56929999</cep_final></item>
+<item><uf>PE</uf><cidade>SERRITA</cidade><cep_inicial>56140000</cep_inicial><cep_final>56149999</cep_final></item>
+<item><uf>PE</uf><cidade>SERTANIA</cidade><cep_inicial>56600000</cep_inicial><cep_final>56639999</cep_final></item>
+<item><uf>PE</uf><cidade>SIRINHAEM</cidade><cep_inicial>55580000</cep_inicial><cep_final>55589999</cep_final></item>
+<item><uf>PE</uf><cidade>SOLIDAO</cidade><cep_inicial>56795000</cep_inicial><cep_final>56799999</cep_final></item>
+<item><uf>PE</uf><cidade>SURUBIM</cidade><cep_inicial>55750000</cep_inicial><cep_final>55754999</cep_final></item>
+<item><uf>PE</uf><cidade>TABIRA</cidade><cep_inicial>56780000</cep_inicial><cep_final>56794999</cep_final></item>
+<item><uf>PE</uf><cidade>TACAIMBO</cidade><cep_inicial>55140000</cep_inicial><cep_final>55149999</cep_final></item>
+<item><uf>PE</uf><cidade>TACARATU</cidade><cep_inicial>56480000</cep_inicial><cep_final>56499999</cep_final></item>
+<item><uf>PE</uf><cidade>TAMANDARE</cidade><cep_inicial>55578000</cep_inicial><cep_final>55579999</cep_final></item>
+<item><uf>PE</uf><cidade>TAQUARITINGA DO NORTE</cidade><cep_inicial>55790000</cep_inicial><cep_final>55799999</cep_final></item>
+<item><uf>PE</uf><cidade>TEREZINHA</cidade><cep_inicial>55305000</cep_inicial><cep_final>55309999</cep_final></item>
+<item><uf>PE</uf><cidade>TERRA NOVA</cidade><cep_inicial>56190000</cep_inicial><cep_final>56199999</cep_final></item>
+<item><uf>PE</uf><cidade>TIMBAUBA</cidade><cep_inicial>55870000</cep_inicial><cep_final>55879999</cep_final></item>
+<item><uf>PE</uf><cidade>TORITAMA</cidade><cep_inicial>55125000</cep_inicial><cep_final>55129999</cep_final></item>
+<item><uf>PE</uf><cidade>TRACUNHAEM</cidade><cep_inicial>55805000</cep_inicial><cep_final>55809999</cep_final></item>
+<item><uf>PE</uf><cidade>TRINDADE</cidade><cep_inicial>56250000</cep_inicial><cep_final>56259999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOAQUIM DO MONTE</cidade><cep_inicial>55670000</cep_inicial><cep_final>55674999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOSE DA COROA GRANDE</cidade><cep_inicial>55565000</cep_inicial><cep_final>55569999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOSE DO BELMONTE</cidade><cep_inicial>56950000</cep_inicial><cep_final>56979999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO JOSE DO EGITO</cidade><cep_inicial>56700000</cep_inicial><cep_final>56719999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO LOURENCO DA MATA</cidade><cep_inicial>54700001</cep_inicial><cep_final>54749999</cep_final></item>
+<item><uf>PE</uf><cidade>SAO VICENTE FERRER</cidade><cep_inicial>55860000</cep_inicial><cep_final>55864999</cep_final></item>
+<item><uf>PE</uf><cidade>SERRA TALHADA</cidade><cep_inicial>56900001</cep_inicial><cep_final>56929999</cep_final></item>
+<item><uf>PE</uf><cidade>SERRITA</cidade><cep_inicial>56140000</cep_inicial><cep_final>56149999</cep_final></item>
+<item><uf>PE</uf><cidade>SERTANIA</cidade><cep_inicial>56600000</cep_inicial><cep_final>56639999</cep_final></item>
+<item><uf>PE</uf><cidade>SIRINHAEM</cidade><cep_inicial>55580000</cep_inicial><cep_final>55589999</cep_final></item>
+<item><uf>PE</uf><cidade>SOLIDAO</cidade><cep_inicial>56795000</cep_inicial><cep_final>56799999</cep_final></item>
+<item><uf>PE</uf><cidade>SURUBIM</cidade><cep_inicial>55750000</cep_inicial><cep_final>55754999</cep_final></item>
+<item><uf>PE</uf><cidade>TABIRA</cidade><cep_inicial>56780000</cep_inicial><cep_final>56794999</cep_final></item>
+<item><uf>PE</uf><cidade>TACAIMBO</cidade><cep_inicial>55140000</cep_inicial><cep_final>55149999</cep_final></item>
+<item><uf>PE</uf><cidade>TACARATU</cidade><cep_inicial>56480000</cep_inicial><cep_final>56499999</cep_final></item>
+<item><uf>PE</uf><cidade>TAMANDARE</cidade><cep_inicial>55578000</cep_inicial><cep_final>55579999</cep_final></item>
+<item><uf>PE</uf><cidade>TAQUARITINGA DO NORTE</cidade><cep_inicial>55790000</cep_inicial><cep_final>55799999</cep_final></item>
+<item><uf>PE</uf><cidade>TEREZINHA</cidade><cep_inicial>55305000</cep_inicial><cep_final>55309999</cep_final></item>
+<item><uf>PE</uf><cidade>TERRA NOVA</cidade><cep_inicial>56190000</cep_inicial><cep_final>56199999</cep_final></item>
+<item><uf>PE</uf><cidade>TIMBAUBA</cidade><cep_inicial>55870000</cep_inicial><cep_final>55879999</cep_final></item>
+<item><uf>PE</uf><cidade>TRIUNFO</cidade><cep_inicial>56870000</cep_inicial><cep_final>56894999</cep_final></item>
+<item><uf>PE</uf><cidade>TUPANATINGA</cidade><cep_inicial>56540000</cep_inicial><cep_final>56549999</cep_final></item>
+<item><uf>PE</uf><cidade>TUPARETAMA</cidade><cep_inicial>56760000</cep_inicial><cep_final>56779999</cep_final></item>
+<item><uf>PE</uf><cidade>VENTUROSA</cidade><cep_inicial>55270000</cep_inicial><cep_final>55279999</cep_final></item>
+<item><uf>PE</uf><cidade>VERDEJANTE</cidade><cep_inicial>56120000</cep_inicial><cep_final>56129999</cep_final></item>
+<item><uf>PE</uf><cidade>VERTENTE DO LERIO</cidade><cep_inicial>55760000</cep_inicial><cep_final>55764999</cep_final></item>
+<item><uf>PE</uf><cidade>VERTENTES</cidade><cep_inicial>55770000</cep_inicial><cep_final>55779999</cep_final></item>
+<item><uf>PE</uf><cidade>VICENCIA</cidade><cep_inicial>55850000</cep_inicial><cep_final>55859999</cep_final></item>
+<item><uf>PE</uf><cidade>VITORIA DE SANTO ANTAO</cidade><cep_inicial>55600001</cep_inicial><cep_final>55619999</cep_final></item>
+<item><uf>PE</uf><cidade>XEXEU</cidade><cep_inicial>55555000</cep_inicial><cep_final>55559999</cep_final></item>
+<item><uf>PE</uf><cidade>TORITAMA</cidade><cep_inicial>55125000</cep_inicial><cep_final>55129999</cep_final></item>
+<item><uf>PE</uf><cidade>TRACUNHAEM</cidade><cep_inicial>55805000</cep_inicial><cep_final>55809999</cep_final></item>
+<item><uf>PE</uf><cidade>TRINDADE</cidade><cep_inicial>56250000</cep_inicial><cep_final>56259999</cep_final></item>
+<item><uf>PE</uf><cidade>TRIUNFO</cidade><cep_inicial>56870000</cep_inicial><cep_final>56894999</cep_final></item>
+<item><uf>PE</uf><cidade>TUPANATINGA</cidade><cep_inicial>56540000</cep_inicial><cep_final>56549999</cep_final></item>
+<item><uf>PE</uf><cidade>TUPARETAMA</cidade><cep_inicial>56760000</cep_inicial><cep_final>56779999</cep_final></item>
+<item><uf>PE</uf><cidade>VENTUROSA</cidade><cep_inicial>55270000</cep_inicial><cep_final>55279999</cep_final></item>
+<item><uf>PE</uf><cidade>VERDEJANTE</cidade><cep_inicial>56120000</cep_inicial><cep_final>56129999</cep_final></item>
+<item><uf>PE</uf><cidade>VERTENTE DO LERIO</cidade><cep_inicial>55760000</cep_inicial><cep_final>55764999</cep_final></item>
+<item><uf>PE</uf><cidade>VERTENTES</cidade><cep_inicial>55770000</cep_inicial><cep_final>55779999</cep_final></item>
+<item><uf>PE</uf><cidade>VICENCIA</cidade><cep_inicial>55850000</cep_inicial><cep_final>55859999</cep_final></item>
+<item><uf>PE</uf><cidade>VITORIA DE SANTO ANTAO</cidade><cep_inicial>55600001</cep_inicial><cep_final>55619999</cep_final></item>
+<item><uf>PE</uf><cidade>XEXEU</cidade><cep_inicial>55555000</cep_inicial><cep_final>55559999</cep_final></item>
+</items>
