@@ -1,3 +1,4 @@
+import os
 import scrapy
 import json
 import random
@@ -92,31 +93,31 @@ class PirateTest(scrapy.Spider):
         #Embaralhando a lista com o UF de cada estado
         random.shuffle(UFs)
         
-        #Inicio - Comando para interromper scrapy
+        body = self.data
         count = 0 
         for uf in UFs:
+            body['uf'] = uf 
+            
+            #Condição de parada
             if count >= 3:
                 break
-        
             else:
-                count = count+1
-            #Fim - Comando para interromper scrapy
+                count=count +1
             
-            self.data['uf'] = uf    
-            #self.data['uf'] = 'SC' 
             yield scrapy.Request(
                     'https://buscacepinter.correios.com.br/app/faixa_cep_uf_localidade/carrega-faixa-cep-uf-localidade.php',
                     method='POST',
-                    dont_filter=True,
+                    dont_filter=False,
                     #cookies=self.cookies,
                     headers=self.headers,
-                    body=urlencode(self.data),
-                    callback=self.selectState
+                    body=urlencode(body),
+                    callback=self.selectState,
+                    cb_kwargs= dict(body=body)
             )
 
         
-    def selectState(self,response):
-        #Leio o response com json para relizar o tratamento dos dados
+    def selectState(self,response, body):
+        #Leio a response com json para relizar o tratamento dos dados
         data = json.loads(response.text)
         
         #Caso o total dos dados da response "len(data['dados'])" for menor que o "data['total']" é realizado uma nova requisição com a quantidade correta
@@ -129,9 +130,10 @@ class PirateTest(scrapy.Spider):
                     dont_filter=True,
                     #cookies=self.cookies,
                     headers=self.headers,
-                    body=urlencode(self.data),
-                    callback=self.selectState
-                )
+                    body=urlencode(body),
+                    callback=self.selectState,
+                    cb_kwargs= dict(body=body)
+            )
             
         else:  
             #Usado o método list comprehension para raspadar e limpar os dados necessário
@@ -155,7 +157,11 @@ class PirateTest(scrapy.Spider):
             df.sort_values(['cidade','cep_inicial','cep_final'],ascending=[True,True,False], inplace=True)
             df.drop_duplicates('cidade', inplace=True)
             
-            #Salvando o arquivo no formato json
+            #Verificando a existencia da pasta data, se não existe é criada
+            if not os.path.isdir("./data"):
+                os.system("mkdir data")
+                
+            #Salvando o arquivo no formato json   
             with open(f"./data/state_{data[0]['uf']}.json", 'w') as arq:
                 arq.write(df.to_json(orient='records',indent=4))
             
